@@ -14,20 +14,10 @@
   
 - Menggunakan 95% fitur dari [`RestApi`](https://api.botcahx.eu.org)  
 
-
-**Apikey :**
-- Jika ingin membeli ```Apikey``` Premium silahkan register lalu pilih paket yang di inginkan [`Pilih`](https://api.botcahx.eu.org/price)
-
 **Website Api :**
 - BOTCAHX [`Register`](https://api.botcahx.eu.org)
 - Lann [`Register`](https://api.betabotz.eu.org)
 - Setelah mendapatkan apikey silahkan paste di config.js pada bagian ```global.btc``` dan sebagai optional kamu bisa juga mengisi ```global.lann```
-
-
-## Group Bot
-- Group Bot [`Join`](https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi)
-- Group Bebas [`Join`](https://chat.whatsapp.com/KrxlrTjuZ1o3gbL4fyXTnL)
-## Support
 
 <a href="https://sociabuzz.com/tioclkp02" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
 
